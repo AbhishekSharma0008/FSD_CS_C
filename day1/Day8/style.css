@@ -1,0 +1,13 @@
+#top{
+    border: 5px solid black;
+}
+h1{
+    color: black;
+    background: aqua;
+    width: 30%;
+}
+a{
+    text-decoration: none;
+    color:blueviolet;
+    width: 40%;
+}
